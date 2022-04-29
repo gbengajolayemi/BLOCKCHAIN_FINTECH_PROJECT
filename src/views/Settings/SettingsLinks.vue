@@ -9,9 +9,7 @@
                 </p>
 
                 <p>
-                    <a href="https://explorer.fantom.network/" rel="noopener" target="_blank">
-                        Fantom Explorer
-                    </a>
+                    <a href="https://explorer.fantom.network/" rel="noopener" target="_blank"> Fantom Explorer </a>
                 </p>
 
                 <social-media-links />
