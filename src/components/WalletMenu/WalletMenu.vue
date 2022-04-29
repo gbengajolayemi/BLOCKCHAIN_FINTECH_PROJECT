@@ -20,7 +20,7 @@
                 <div class="logo">
                     <router-link to="/" class="logo-link">
                         <icon data="@/assets/svg/fantom.svg" width="40" height="50" />
-                        <span class="wallet-label">fWallet</span>
+                        <span class="wallet-label">GO Wallet</span>
                     </router-link>
                 </div>
                 <f-simple-navigation :items="navigation" aria-label="main navigation" />
