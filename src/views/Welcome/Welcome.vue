@@ -2,7 +2,7 @@
     <div class="welcome-view">
         <div class="intro">
             <h1>Welcome to GOt</h1>
-            <h2>Send, receive and stake your Opera FTM</h2>
+            <h2>Send and receive USDT - Future of Finance</h2>
         </div>
 
         <div class="view-account-main">
