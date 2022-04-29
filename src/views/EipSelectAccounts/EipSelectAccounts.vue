@@ -16,7 +16,9 @@
                         </div>
 
                         <div class="align-center form-buttons">
-                            <button type="submit" class="btn large break-word" style="max-width: 100%">Select</button>
+                            <button type="submit" class="btn large break-word" style="max-width: 100%;">
+                                Select
+                            </button>
                         </div>
                     </fieldset>
                 </f-form>
