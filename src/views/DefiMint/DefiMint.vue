@@ -5,9 +5,7 @@
             <f-back-button :route-name="backButtonRoute" />
         </h1>
 
-        <h2 class="perex">
-            Mint synths with your locked collateral.
-        </h2>
+        <h2 class="perex">Mint synths with your locked collateral.</h2>
 
         <defi-borrow
             :token="params.token"

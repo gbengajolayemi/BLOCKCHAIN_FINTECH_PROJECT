@@ -1,6 +1,6 @@
 <template>
     <div class="view-defi-fmint">
-        <h1 class="with-back-btn" data-focus>fMint</h1>
+        <h1 class="with-back-btn" data-focus>fMintt</h1>
 
         <h2 class="perex">Manage your collateral and minted synths</h2>
 

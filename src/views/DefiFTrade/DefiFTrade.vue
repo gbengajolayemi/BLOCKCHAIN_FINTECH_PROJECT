@@ -1,6 +1,6 @@
 <template>
     <div class="view-defi-ftrade">
-        <h1 class="with-back-btn" data-focus>Swap</h1>
+        <h1 class="with-back-btn" data-focus>Swapp</h1>
 
         <div class="grid">
             <div class="from-col">

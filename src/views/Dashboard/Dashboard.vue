@@ -12,7 +12,7 @@
 
             <section :aria-labelledby="contactsId">
                 <h2 :id="contactsId" class="h1">
-                    Contacts <span class="f-records-count">({{ contacts.length }})</span>
+                    Contactt <span class="f-records-count">({{ contacts.length }})</span>
                 </h2>
 
                 <contact-list edit-mode />
