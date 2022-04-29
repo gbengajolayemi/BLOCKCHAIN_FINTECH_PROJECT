@@ -310,13 +310,6 @@ body[dir='rtl'] {
             }
         }
 
-        .f-hamburger-switch {
-            display: inline-block;
-
-            &.on {
-            }
-        }
-
         .f-drawer {
             display: flex;
         }
