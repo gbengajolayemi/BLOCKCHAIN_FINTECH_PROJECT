@@ -23,7 +23,9 @@
             <div class="body"></div>
             <div class="footer">
                 <div class="copyright">
-                    <a href="https://fantom.foundation/" target="_blank" rel="noopener">©2020 Fantom Foundation</a>
+                    <a href="https://www.instagram.com/gbengaboss//" target="_blank" rel="noopener"
+                        >©2020 GBENGAFoundation</a
+                    >
                 </div>
             </div>
         </div>

@@ -1,7 +1,7 @@
 <template>
     <div class="welcome-view">
         <div class="intro">
-            <h1>Welcome to GOt</h1>
+            <h1>Welcome to GO</h1>
             <h2>Send and receive USDT - Future of Finance</h2>
         </div>
 

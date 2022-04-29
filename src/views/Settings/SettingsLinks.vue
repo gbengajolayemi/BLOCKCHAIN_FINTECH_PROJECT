@@ -4,7 +4,7 @@
             <div class="small-container">
                 <p>
                     <a href="https://fantom.foundation/how-to-use-fantom-wallet/" rel="noopener" target="_blank">
-                        How to use Fantom fWallet
+                        How to use GO fWallet
                     </a>
                 </p>
 

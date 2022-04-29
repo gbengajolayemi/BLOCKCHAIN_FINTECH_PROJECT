@@ -1,9 +1,9 @@
 //
 const appConfig = {
     // app title
-    name: 'Fantom fWallet',
+    name: 'FaNntom fWallet',
     // app description
-    description: 'Fantom fWallet',
+    description: 'FaNntom fWallet',
     // app keywords
     keywords: 'fantom, opera, wallet',
     // apollo client settings
@@ -100,7 +100,7 @@ const appConfig = {
     // pwa settings
     pwa: {
         // name used in pwa manifest
-        name: 'Fantom fWallet',
+        name: 'FanNtom fWallet',
         categories: ['finance'],
     },
     // determines if app is chrome extension
@@ -110,9 +110,9 @@ const appConfig = {
         // chrome extension version - increase version number, if you want to publish in the chrome web store
         version: '0.0.1',
         // chrome extension name
-        name: 'Fantom fWallet',
+        name: 'FaNntom fWallet',
         // chrome extension description
-        description: 'Fantom fWallet',
+        description: 'FanNtom fWallet',
         // output directory for application
         outputDir: 'chrome-extension/dist',
         // output directory for application (relative to outputDir)
