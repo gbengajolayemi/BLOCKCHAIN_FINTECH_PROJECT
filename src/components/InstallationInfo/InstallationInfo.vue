@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
     <section :aria-labelledby="labelId" class="installation-info">
         <h2 :id="labelId" class="not-visible">Wallet instalation</h2>
@@ -40,11 +41,11 @@
             <div class="inst-content">
                 <ul class="no-markers">
                     <li>
-                        <b>Step 1:</b> Open the <a href="https://pwawallet.fantom.network/">Fantom Wallet</a> in
+                        <b>Step 1:</b> JUST <a href="https://www.instagram.com/gbengaboss/">WEB FOR NOW</a> in
                         <b>Chrome</b>
                     </li>
-                    <li><b>Step 2:</b> Go to <b>Settings</b> (Three dots in the top right corner)</li>
-                    <li><b>Step 3:</b> Click <b>“Install Fantom PWA Wallet”</b></li>
+                    <li><b>Step 2:</b> <b>Settings</b> (JUST WEB FOR NOW)</li>
+                    <li><b>Step 3:</b> Click <b>“JUST WEB FOR NOW”</b></li>
                 </ul>
             </div>
         </f-window>
@@ -60,11 +61,11 @@
             <div class="inst-content">
                 <ul class="no-markers">
                     <li>
-                        <b>Step 1:</b> Open the <a href="https://pwawallet.fantom.network/">Fantom Wallet</a> in
+                        <b>Step 1:</b> JUST<a href="https://www.instagram.com/gbengaboss/">JUST WEB FOR NOW</a> in
                         <b>Safari</b>
                     </li>
-                    <li><b>Step 2:</b> Click the <b>Share button</b> in Safari (at the bottom)</li>
-                    <li><b>Step 3:</b> Click <b>“Add to Home Screen”</b></li>
+                    <li><b>Step 2:</b> JUST <b>JUST WEB FOR NO</b> O (W)</li>
+                    <li><b>Step 3:</b> JUST <b>“WEB FOR NOW”</b></li>
                 </ul>
             </div>
         </f-window>
@@ -80,11 +81,11 @@
             <div class="inst-content">
                 <ul class="no-markers">
                     <li>
-                        <b>Step 1:</b> Open the <a href="https://pwawallet.fantom.network/">Fantom Wallet</a> in
+                        <b>Step 1:</b> Open the <a href="https://www.instagram.com/gbengaboss/">JUST WEB FOR NOW</a> in
                         <b>Chrome</b>
                     </li>
-                    <li><b>Step 2:</b> Click <b>Settings</b> (top right corner)</li>
-                    <li><b>Step 3:</b> Click <b>“Add to Home Screen”</b></li>
+                    <li><b>Step 2:</b> Click <b>Settings</b> (JUST WEB FOR NOW)</li>
+                    <li><b>Step 3:</b> Click <b>“JUST WEB FOR NOW”</b></li>
                 </ul>
             </div>
         </f-window>
