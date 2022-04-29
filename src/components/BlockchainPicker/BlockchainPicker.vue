@@ -40,7 +40,7 @@
                     name="blockchain"
                     value="ethereum"
                     class="not-visible"
-                    
+                    :disabled="!appConfig.bnbridgeApi.useETH || disableETH"
                 />
                 <span>
                     <icon
