@@ -33,7 +33,7 @@
             ref="desktopInfo"
             modal
             title="Desktop Installation"
-            style="max-width: 520px"
+            style="max-width: 520px;"
             animation-in="scale-center-enter-active"
             animation-out="scale-center-leave-active"
         >
@@ -53,7 +53,7 @@
             ref="iosInfo"
             modal
             title="iOS Installation"
-            style="max-width: 520px"
+            style="max-width: 520px;"
             animation-in="scale-center-enter-active"
             animation-out="scale-center-leave-active"
         >
@@ -73,7 +73,7 @@
             ref="androidInfo"
             modal
             title="Android Installation"
-            style="max-width: 520px"
+            style="max-width: 520px;"
             animation-in="scale-center-enter-active"
             animation-out="scale-center-leave-active"
         >
