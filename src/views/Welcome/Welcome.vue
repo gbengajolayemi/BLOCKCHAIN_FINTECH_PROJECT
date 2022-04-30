@@ -2,8 +2,7 @@
     <div class="welcome-view">
         <div class="intro">
             <h1>Welcome to GO</h1>
-            <h2>Send and receive USDT - Future of Finance |CROSS BORDER TRANSACTION SYSTEM| </h2>
-            
+            <h2>Send and receive USDT - Future of Finance |CROSS-BORDER TRANSACTION SYSTEM|</h2>
         </div>
 
         <div class="view-account-main">
@@ -55,11 +54,9 @@ import ConnectWalletWindow from '@/components/windows/ConnectWalletWindow/Connec
 import { getUniqueId } from '@/utils';
 import CreateAccountWindow from '@/components/windows/CreateAccountWindow/CreateAccountWindow.vue';
 import RestoreAccountWindow from '@/components/windows/RestoreAccountWindow/RestoreAccountWindow.vue';
-
 // import {WEIToFTM} from "../utils/transactions.js";
 export default {
     name: 'Welcome',
-
     components: {
         RestoreAccountWindow,
         CreateAccountWindow,
@@ -67,23 +64,19 @@ export default {
         InstallationInfo,
         AccountList,
     },
-
     data() {
         return {
             walletsId: getUniqueId(),
             createId: getUniqueId(),
         };
     },
-
     methods: {
         onConnectWalletClick() {
             this.$refs.connectWalletWindow.show();
         },
-
         onCreateWalletClick() {
             this.$refs.createAccountWindow.show();
         },
-
         onRestoreWalletClick() {
             this.$refs.restoreAccountWindow.show();
         },
