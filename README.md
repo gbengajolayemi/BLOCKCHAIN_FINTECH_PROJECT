@@ -1,4 +1,4 @@
-# Fantom PWA Wallet
+#PWA Wallet
 
 JavaScript and Vue based Fantom pwa wallet.
 
