@@ -51,12 +51,6 @@ import homeIcon from '../../assets/svg/monochrome/Sidebar/Home.svg';
 import settingsIcon from '../../assets/svg/monochrome/Sidebar/Settings.svg';
 import walletIcon from '../../assets/svg/monochrome/Sidebar/Wallet.svg';
 // import defiIcon from '../../assets/svg/monochrome/Sidebar/DeFi.svg';
-import stakingIcon from '../../assets/svg/monochrome/Sidebar/Staking.svg';
-import funiIcon from '../../assets/svg/monochrome/Sidebar/fUNI.svg';
-import swapIcon from '../../assets/svg/defi/ftrade.svg';
-import voteIcon from '../../assets/svg/monochrome/Sidebar/Governance.svg';
-import fmintIcon from '../../assets/svg/defi/mint.svg';
-
 /*
 import homeIcon from '../../assets/svg/home.svg';
 import settingsIcon from '../../assets/svg/settings.svg';
@@ -111,60 +105,6 @@ export default {
                     title: 'Wallet',
                     icon: walletIcon,
                     walletLink: true,
-                    fill: true,
-                },
-                {
-                    url: {
-                        name: STAKING_DEFAULT_VIEW,
-                    },
-                    title: 'Staking',
-                    icon: stakingIcon,
-                    stakingLink: true,
-                    fill: true,
-                },
-                {
-                    url: {
-                        name: 'fmint',
-                    },
-                    title: 'fMint',
-                    icon: fmintIcon,
-                    fillColor: true,
-                    fmintLink: true,
-                },
-                {
-                    url: {
-                        name: 'fswap',
-                    },
-                    title: 'fSwap',
-                    icon: swapIcon,
-                    fill: true,
-                    fswapLink: true,
-                },
-                /*{
-                    url: {
-                        name: 'defi',
-                    },
-                    title: 'DeFi',
-                    icon: defiIcon,
-                    deFiLink: true,
-                    fill: true,
-                },*/
-                {
-                    url: {
-                        name: 'funiswap',
-                    },
-                    title: 'fUNI',
-                    icon: funiIcon,
-                    fill: true,
-                    fUniswapLink: true,
-                },
-                {
-                    url: {
-                        name: 'gov',
-                    },
-                    title: 'Governance',
-                    icon: voteIcon,
-                    govLink: true,
                     fill: true,
                 },
                 {
