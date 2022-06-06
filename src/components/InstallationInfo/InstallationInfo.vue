@@ -4,7 +4,7 @@
         <h2 :id="labelId" class="not-visible">Wallet instalation</h2>
 
         <p class="align-center">
-            The GO fWallet has been created as a Progressive Web App (PWA) which is easy to launch on all platforms:
+            The GO Wallet has been created as a Decentralized wallet for Cross Border Transactionss:
         </p>
 
         <div class="inst-buttons">
