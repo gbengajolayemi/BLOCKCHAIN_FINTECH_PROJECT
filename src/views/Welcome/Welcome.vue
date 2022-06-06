@@ -1,8 +1,11 @@
 <template>
     <div class="welcome-view">
         <div class="intro">
-            <h1>Welcome to GO</h1>
-            <h2>Send and receive USDT - Future of Finance</h2>
+            <h1>GOO Quickly</h1>
+            <h4 class="hero__heading">
+                <span class="c-or">Endless possibilities</span>
+                for global payment
+            </h4>
         </div>
 
         <div class="view-account-main">
