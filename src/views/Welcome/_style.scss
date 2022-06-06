@@ -8,13 +8,32 @@ $btns-border-radius: 48px;
         //padding: 32px 0 88px;
         padding: 0 0 60px;
 
+
         h1 {
+            font-size: 30px;
+            color: rgb(178, 17, 17);
+            /*font-weight: 600;*/
+            font-family: "Lucida Console", "Courier New", monospace;
+        }
+        h2 {
             font-size: 48px;
             color: #fff;
             /*font-weight: 600;*/
+            font-family: "Lucida Console", "Courier New", monospace;
         }
-    }
+        h4 {
+            font-size: 20px;
+            color: rgb(245, 248, 244);
+            /*font-weight: 600;*/
+            font-family: "Lucida Console", "Courier New", monospace;
+        }
 
+    }
+    .header {
+        background-color: #F1F1F1;
+        text-align: center;
+        padding: 20px;
+      }
     .view-account-main {
         margin: 0 auto;
         //max-width: 770px;
