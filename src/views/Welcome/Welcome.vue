@@ -1,7 +1,7 @@
 <template>
     <div class="welcome-view">
         <div class="intro">
-            <h1>GOO Quickly</h1>
+            <h1>GO!!</h1>
             <h4 class="hero__heading">
                 <span class="c-or">Endless possibilities</span>
                 for global payment
