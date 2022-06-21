@@ -1,11 +1,8 @@
 <template>
     <div class="welcome-view">
         <div class="intro">
-            <h1>GO!!</h1>
-            <h4 class="hero__heading">
-                <span class="c-or">Endless possibilities</span>
-                for global payment
-            </h4>
+            <h1>GO QUICKLY</h1>
+            <h2>DEFI POWERED</h4>
         </div>
 
         <div class="view-account-main">
