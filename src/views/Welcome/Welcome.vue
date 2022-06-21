@@ -2,7 +2,7 @@
     <div class="welcome-view">
         <div class="intro">
             <h1>GO QUICKLY</h1>
-            <h2>DEFI POWERED</h4>
+            <h2>DEFI POWERED</h2>
         </div>
 
         <div class="view-account-main">
