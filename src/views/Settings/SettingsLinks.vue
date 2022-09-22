@@ -3,7 +3,7 @@
         <f-card class="f-card-double-padding">
             <div class="small-container">
                 <p>
-                    <a href="https://www.instagram.com/gbengaboss/" rel="noopener" target="_blank">
+                    <a href="https://www.instagram.com/testing/" rel="noopener" target="_blank">
                         How to use GO fWallet
                     </a>
                 </p>
