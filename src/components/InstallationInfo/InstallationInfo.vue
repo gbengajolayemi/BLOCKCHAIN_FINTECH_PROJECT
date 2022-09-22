@@ -41,7 +41,7 @@
             <div class="inst-content">
                 <ul class="no-markers">
                     <li>
-                        <b>Step 1:</b> JUST <a href="https://www.instagram.com/gbengaboss/">WEB FOR NOW</a> in
+                        <b>Step 1:</b> JUST <a href="https://www.instagram.com//">WEB FOR NOW</a> in
                         <b>Chrome</b>
                     </li>
                     <li><b>Step 2:</b> <b>Settings</b> (JUST WEB FOR NOW)</li>
@@ -81,7 +81,7 @@
             <div class="inst-content">
                 <ul class="no-markers">
                     <li>
-                        <b>Step 1:</b> Open the <a href="https://www.instagram.com/gbengaboss/">JUST WEB FOR NOW</a> in
+                        <b>Step 1:</b> Open the <a href="https://www.instagram.com/test/">JUST WEB FOR NOW</a> in
                         <b>Chrome</b>
                     </li>
                     <li><b>Step 2:</b> Click <b>Settings</b> (JUST WEB FOR NOW)</li>
