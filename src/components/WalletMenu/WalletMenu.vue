@@ -29,7 +29,7 @@
                 <social-media-links />
                 <div class="copyright">
                     <a href="https:///www.instagram.com/gbengaboss/" target="_blank" rel="noopener"
-                        >©2020 GBENGA PROJECT</a
+                        >©2022 GBENGA PROJECT</a
                     >
                 </div>
             </div>

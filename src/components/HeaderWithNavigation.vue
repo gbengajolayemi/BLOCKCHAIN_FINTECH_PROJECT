@@ -24,7 +24,7 @@
             <div class="footer">
                 <div class="copyright">
                     <a href="https://www.instagram.com/testing//" target="_blank" rel="noopener"
-                        >©2020 GBENGAFoundation</a
+                        >©2022 GBENGAFoundation</a
                     >
                 </div>
             </div>
