@@ -28,7 +28,7 @@
             <div class="footer">
                 <social-media-links />
                 <div class="copyright">
-                    <a href="https:///www.instagram.com/2022/" target="_blank" rel="noopener">©2022 GBENGA PROJECT</a>
+                    <a href="https:///www.instagram.com/2022/" target="_blank" rel="noopener">©2022 TESTING PROJECT</a>
                 </div>
             </div>
         </div>
