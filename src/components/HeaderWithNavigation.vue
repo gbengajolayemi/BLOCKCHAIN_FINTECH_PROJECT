@@ -23,7 +23,7 @@
             <div class="body"></div>
             <div class="footer">
                 <div class="copyright">
-                    <a href="https://www.instagram.com/gbengabosss//" target="_blank" rel="noopener"
+                    <a href="https://www.instagram.com/gbengaboss//" target="_blank" rel="noopener"
                         >©2020 GBENGAFoundation</a
                     >
                 </div>
