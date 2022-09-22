@@ -2,15 +2,16 @@
  * This Implements Fantom Nano Ledger HW Wallet API
  *
  * @author Jiri Malek <jirka.malek@gmail.com>
- * @copyright (c) 2020, Fantom Foundation
+ * @copyright (c) 2022, Fantom Foundation
  * @version 0.1.7
  * @licese MIT
  */
-import {Assert, stripReturnCodeFromResponse, bip32PathToBuffer, BIP32_HARDENED, buffer2Hex} from "./utils";
-import {Transaction} from "ethereumjs-tx";
+import {Assert, BIP32_HARDENED, bip32PathToBuffer, buffer2Hex, stripReturnCodeFromResponse} from "./utils";
+import {stripZeros, toBuffer} from "ethereumjs-util";
+
 import Common from "ethereumjs-common";
+import {Transaction} from "ethereumjs-tx";
 import {encode} from "rlp";
-import {toBuffer, stripZeros} from "ethereumjs-util";
 
 // FANTOM_CHAIN_ID represents the Fantom Opera main chain id.
 export const FANTOM_CHAIN_ID = 0xfa;

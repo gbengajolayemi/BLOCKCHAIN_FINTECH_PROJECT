@@ -6,7 +6,7 @@
                     <social-media-links></social-media-links>
                 </div>
                 <div class="col align-center-sm align-end">
-                    <a href="https://www.instagram.com/testing/" target="_blank" rel="noopener">©2020 GBENGA </a>
+                    <a href="https://www.instagram.com/testing/" target="_blank" rel="noopener">©2022 GBENGA </a>
                 </div>
             </div>
         </div>
